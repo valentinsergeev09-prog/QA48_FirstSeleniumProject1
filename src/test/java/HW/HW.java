@@ -1,4 +1,4 @@
-package HW01x03;
+package HW;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

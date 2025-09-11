@@ -1,4 +1,4 @@
-package com.telran.qa48;
+package HW;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
